@@ -1,0 +1,1 @@
+A Twitter Bot built using Netlify Serverless function and openai to create random tweet and post it daily
