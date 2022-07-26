@@ -45,6 +45,3 @@ export const isTokenValid = (event: Event) => {
 
   return true;
 };
-
-// [functions."cronTrigger"]
-// schedule = "@daily"
